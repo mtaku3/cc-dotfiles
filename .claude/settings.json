@@ -48,13 +48,14 @@
     "python-development@claude-code-workflows": true,
     "ui-design@claude-code-workflows": true,
     "repomix-mcp@repomix": true,
-    "markitdown@mtaku3-local": true
+    "markitdown@mtaku3-plugins": true
   },
   "extraKnownMarketplaces": {
-    "mtaku3-local": {
+    "mtaku3-plugins": {
       "source": {
-        "source": "directory",
-        "path": "~/.claude/local-plugins"
+        "source": "github",
+        "repo": "mtaku3/cc-dotfiles",
+        "path": "plugins/.claude-plugin/marketplace.json"
       }
     },
     "superpowers-dev": {

@@ -1,10 +1,10 @@
 {
-  "name": "mtaku3-local",
+  "name": "mtaku3-plugins",
   "owner": {
     "name": "mtaku3"
   },
   "metadata": {
-    "description": "Local plugins for Claude Code",
+    "description": "mtaku3's plugins for Claude Code",
     "version": "1.0.0"
   },
   "plugins": [
