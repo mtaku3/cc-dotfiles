@@ -55,7 +55,7 @@
       "source": {
         "source": "github",
         "repo": "mtaku3/cc-dotfiles",
-        "path": "plugins/.claude-plugin/marketplace.json"
+        "path": "plugins"
       }
     },
     "superpowers-dev": {

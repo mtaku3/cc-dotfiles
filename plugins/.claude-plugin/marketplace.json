@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "markitdown",
-      "source": "./plugins/markitdown",
+      "source": "./markitdown",
       "category": "integration"
     }
   ]
