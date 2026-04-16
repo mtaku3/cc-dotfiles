@@ -54,8 +54,7 @@
     "mtaku3-plugins": {
       "source": {
         "source": "git",
-        "url": "https://github.com/mtaku3/cc-dotfiles",
-        "path": "plugins"
+        "url": "https://github.com/mtaku3/cc-dotfiles"
       }
     },
     "superpowers-dev": {
