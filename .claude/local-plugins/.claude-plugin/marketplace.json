@@ -1,0 +1,17 @@
+{
+  "name": "mtaku3-local",
+  "owner": {
+    "name": "mtaku3"
+  },
+  "metadata": {
+    "description": "Local plugins for Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "markitdown",
+      "source": "./markitdown",
+      "category": "integration"
+    }
+  ]
+}

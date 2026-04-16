@@ -1,0 +1,12 @@
+{
+  "name": "markitdown",
+  "description": "MarkItDown MCP server for converting files and URLs to Markdown.",
+  "version": "1.0.0",
+  "author": {
+    "name": "microsoft"
+  },
+  "homepage": "https://github.com/microsoft/markitdown",
+  "repository": "https://github.com/microsoft/markitdown",
+  "keywords": ["markitdown", "mcp", "markdown", "conversion"],
+  "license": "MIT"
+}

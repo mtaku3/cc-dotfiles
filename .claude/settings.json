@@ -46,9 +46,16 @@
     "kubernetes-operations@claude-code-workflows": true,
     "observability-monitoring@claude-code-workflows": true,
     "python-development@claude-code-workflows": true,
-    "ui-design@claude-code-workflows": true
+    "ui-design@claude-code-workflows": true,
+    "markitdown@mtaku3-local": true
   },
   "extraKnownMarketplaces": {
+    "mtaku3-local": {
+      "source": {
+        "source": "directory",
+        "path": "~/.claude/local-plugins"
+      }
+    },
     "superpowers-dev": {
       "source": {
         "source": "github",
