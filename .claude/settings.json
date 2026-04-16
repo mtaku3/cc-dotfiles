@@ -48,7 +48,8 @@
     "python-development@claude-code-workflows": true,
     "ui-design@claude-code-workflows": true,
     "repomix-mcp@repomix": true,
-    "markitdown@mtaku3-plugins": true
+    "markitdown@mtaku3-plugins": true,
+    "paper-search-mcp@mtaku3-plugins": true
   },
   "extraKnownMarketplaces": {
     "mtaku3-plugins": {

@@ -12,6 +12,11 @@
       "name": "markitdown",
       "source": "./plugins/markitdown",
       "category": "integration"
+    },
+    {
+      "name": "paper-search-mcp",
+      "source": "./plugins/paper-search-mcp",
+      "category": "integration"
     }
   ]
 }

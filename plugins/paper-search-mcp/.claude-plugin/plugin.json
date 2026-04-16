@@ -1,0 +1,12 @@
+{
+  "name": "paper-search-mcp",
+  "description": "MCP server for searching academic papers.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mcp-community"
+  },
+  "homepage": "https://github.com/mcp-community/paper-search-mcp",
+  "repository": "https://github.com/mcp-community/paper-search-mcp",
+  "keywords": ["paper-search", "mcp", "academic", "research"],
+  "license": "MIT"
+}
