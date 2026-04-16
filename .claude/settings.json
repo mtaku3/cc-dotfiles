@@ -53,8 +53,8 @@
   "extraKnownMarketplaces": {
     "mtaku3-plugins": {
       "source": {
-        "source": "github",
-        "repo": "mtaku3/cc-dotfiles",
+        "source": "git",
+        "url": "https://github.com/mtaku3/cc-dotfiles",
         "path": "plugins"
       }
     },
